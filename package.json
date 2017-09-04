@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzarkovic/npm-my-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrzarkovic/npm-my-package/issues"
+  },
+  "homepage": "https://github.com/mrzarkovic/npm-my-package#readme",
+  "devDependencies": {}
 }

@@ -1,6 +1,6 @@
 {
   "name": "@mrzarkovic/my-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My package",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,7 @@
   },
   "author": "Milos Zarkovic <mzarkovicm@gmail.com>",
   "license": "ISC",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mrzarkovic/npm-my-package.git"
